@@ -37,7 +37,7 @@ This statement is used to delete the external catalog.
 Syntax:
 
 ```sql
-DROP CATALOG [I EXISTS] catalog_name;
+DROP CATALOG [IF EXISTS] catalog_name;
 ```
 
 ### Example
